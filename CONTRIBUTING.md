@@ -1,6 +1,6 @@
 # Contributing
 
-HI! Thank you for your interest in Cypress Recorder! We'd love to accept your patches and contributions, but please remember that this project was started first and foremost to serve the users of the Checkly API and Site transaction monitoring service.
+HI! Thanks you for your interest in Cypress Recorder! We'd love to accept your patches and contributions, but please remember that this project was started first and foremost to serve the users of the Checkly API and Site transaction monitoring service.
 
 ## New feature guidelines
 
